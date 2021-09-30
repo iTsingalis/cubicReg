@@ -135,7 +135,6 @@ class CubicReg:
 
         """
             Solve the cubic regularization subproblem. See algorithm 7.3.6 in Conn et al. (2000).
-            :return: s: Step for the cubic regularization algorithm
         """
 
         # STEP 1, Algorithm 7.3.6
