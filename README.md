@@ -1,4 +1,4 @@
-# cubic Regularization
+# Cubic Regularization
 This repository contains the implementation of [1] applied to a non-convex variant of binary logistic regresion. More details can be found the report.
 
 
